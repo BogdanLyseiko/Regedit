@@ -1,0 +1,35 @@
+C:\Users\s25-v2\Desktop\SP7\ConsoleApplication1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\s25-v2\Desktop\SP7\ConsoleApplication1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\s25-v2\Desktop\SP7\ConsoleApplication1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\s25-v2\Desktop\SP7\ConsoleApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\s25-v2\Desktop\SP7\ConsoleApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\s25-v2\Desktop\SP7\ConsoleApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\s25-v2\Desktop\SP7\ConsoleApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\s25-v2\Desktop\SP7\ConsoleApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\s25-v2\Desktop\SP7\ConsoleApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\s25-v2\Desktop\SP8\ConsoleApplication1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\s25-v2\Desktop\SP8\ConsoleApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\s25-v2\Desktop\SP8\ConsoleApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\s25-v2\Desktop\SP8\ConsoleApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\s25-v2\Desktop\SP8\ConsoleApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\s25-v2\Desktop\SP8\ConsoleApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\s25-v2\Desktop\SP8\ConsoleApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\s25-v2\Desktop\SP8\ConsoleApplication1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\s25-v2\Desktop\SP8\ConsoleApplication1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\s25-v2\Desktop\SP8\ConsoleApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.AddPartial.resources
+C:\Users\s25-v2\Desktop\SP8\ConsoleApplication1\WindowsFormsApplication2\bin\Debug\MaterialSkin.dll
+E:\Шаг\System programming\SP8\ConsoleApplication1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+E:\Шаг\System programming\SP8\ConsoleApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\Шаг\System programming\SP8\ConsoleApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\Шаг\System programming\SP8\ConsoleApplication1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\Шаг\System programming\SP8\ConsoleApplication1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\Шаг\System programming\SP8\ConsoleApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+E:\Шаг\System programming\SP8\ConsoleApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.AddPartial.resources
+E:\Шаг\System programming\SP8\ConsoleApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+E:\Шаг\System programming\SP8\ConsoleApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\Шаг\System programming\SP8\ConsoleApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+E:\Шаг\System programming\SP8\ConsoleApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.AddFile.resources
+E:\Шаг\System programming\SP8\ConsoleApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.EditValue.resources
+E:\Шаг\System programming\SP8(regedit for exam)\ConsoleApplication1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+E:\Шаг\System programming\SP8(regedit for exam)\ConsoleApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\Шаг\System programming\SP8(regedit for exam)\ConsoleApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
